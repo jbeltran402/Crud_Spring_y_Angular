@@ -1,0 +1,11 @@
+.alineado{
+    text-align: center;
+    padding: 8% 0% 8% 0%;
+}
+.derecha{
+    float: right;
+    margin: 0% 5% 0% 5%;
+}
+.espacio_botones{
+    margin-right: 2%;
+}
